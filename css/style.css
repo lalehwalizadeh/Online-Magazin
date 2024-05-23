@@ -87,6 +87,7 @@ h6 {
 .btn-primary {
 	background-color: var(--primary-color);
 }
+
 .btn-secondary {
 	background-color: var(--secondary-color);
 }
